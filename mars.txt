@@ -5,4 +5,9 @@ Two moons: Wolfman might like this
 
 Deimos is a name I like
 
+<<<<<<< HEAD
 Mars is also called "The Red Planet"
+=======
+
+New line with no content
+>>>>>>> 715665d6c755e4bcd2e8c7cc5f64da9864847d68
